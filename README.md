@@ -36,7 +36,7 @@ Data preparation included cleaning currency and percentage symbols, converting c
 5. **Farm Price Volatility (%)** — farm-price standard deviation relative to its average price.
 6. **Products Analyzed** — number of distinct agricultural products.
 
-## Dashboard Visualizations
+## Dashboard Visualizations (Strongly Supported by the data)
 1. Average Retail Price by City — Top 4
 2. Average Farm Price by Product — Top 4
 3. Average Price Spread by Product — Top 10
